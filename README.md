@@ -1,8 +1,8 @@
 ### Olá, meu nome é Manuela! ✨
-- 📚 Ciência da Computação na UPF.
-- 💼 Desenvolvedora fullstack na Lighthouse.
-- 🎯 Java e React.
-
+- 📚 Ciência da Computação na UPF
+- 💼 Desenvolvedora backend na Lighthouse
+- 🎯 Java
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupicoli&hide_progress=true&theme=radical)](https://github.com/manupicoli)
 
 <div> 
